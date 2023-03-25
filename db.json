@@ -1,13 +1,8 @@
 {
     "users": [
-      {
-        "id": 1,
-        "username": "admin",
-        "email": "eve.holt@reqres.in",
-        "pass" : "cityslicka"
-      }
+    
     ],
-    "hotels" : [
+    "movies" : [
 
     ]
   }
